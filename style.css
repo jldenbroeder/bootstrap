@@ -1,0 +1,14 @@
+body{
+
+}
+.row {
+   text-align: center;
+}
+.row [class^="col-"] {
+  background-color: #a68ebd;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+h3{
+  text-align: center;
+}
